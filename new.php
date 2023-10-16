@@ -1,3 +1,3 @@
 <?php
-echo "this is new file changed thrice";
+echo "this is new file";
 ?>
