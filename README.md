@@ -1,2 +1,2 @@
 # myproject
-This is learning 
+This is learning and practice
